@@ -1,0 +1,23 @@
+Sypialnia:
+  sypialnia.grzejnik : Grzejnik gazowy
+  sypialnia.gora : Oświetlenie górne
+  sypialnia.tv : Telewizor
+Kuchania:
+Łazienka:
+  lazienka.dol : Oświetlenie dolne
+  lazienka.grzejnik: Grzejnik gazowy
+  lazienka.radio : Radio
+Salon:
+Garaż:
+  garaz.radio1 : Radio 1
+  garaz.radio2 : Radio 2
+  garaz.pompa : Pompa hydrauliczna
+  garaz.gora : Oświetlenie górne
+  garaz.dol : Oświetlenie dolne
+  garaz.blat : Oświetlenie blatu
+  garaz.grzejnik1 : Grzejnik gazowy 1
+  garaz.grzejnik2 : Grzejnik gazowy 2
+  garaz.stacjadok : Stacja dokująca
+  garaz.wentylator1 : Wentylator 1
+  garaz.wentylator2 : Wentylator 2
+  garaz.wentylator3 : Wentylator 3
